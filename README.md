@@ -13,31 +13,51 @@ Using Shader Editor these shaders can be used as live wallpapers. Most of them f
 * Choose the shader for live wallpaper in the settings
 
 ## Screenshots
-![blue-ink-bricks](/screenshots/blue-ink-bricks.png?raw=true "blue-ink-bricks")
-![boxes-iterative](/screenshots/boxes-iterative.png?raw=true "boxes-iterative")
-![boxes-recursive](/screenshots/boxes-recursive.png?raw=true "boxes-recursive")
-![cave](/screenshots/cave.png?raw=true "cave")
-![color-bricks](/screenshots/color-bricks.png?raw=true "color-bricks")
-![colored-plasma-noise-bricks](/screenshots/colored-plasma-noise-bricks.png?raw=true "colored-plasma-noise-bricks")
-![color-fire](/screenshots/color-fire.png?raw=true "color-fire")
-![color-flow](/screenshots/color-flow.png?raw=true "color-flow")
-![color-grid](/screenshots/color-grid.png?raw=true "color-grid")
-![drag-color](/screenshots/drag-color.png?raw=true "drag-color")
-![fading-color](/screenshots/fading-color.png?raw=true "fading-color")
-![fading-landscape](/screenshots/fading-landscape.png?raw=true "fading-landscape")
-![fire-flow](/screenshots/fire-flow.png?raw=true "fire-flow")
-![fire-path](/screenshots/fire-path.png?raw=true "fire-path")
-![fire](/screenshots/fire.png?raw=true "fire")
-![fog](/screenshots/fog.png?raw=true "fog")
-![large-slow-swoosh](/screenshots/large-slow-swoosh.png?raw=true "large-slow-swoosh")
-![paint](/screenshots/paint.png?raw=true "paint")
-![plasma-bricks](/screenshots/plasma-bricks.png?raw=true "plasma-bricks")
-![plasma](/screenshots/plasma.png?raw=true "plasma")
-![sand](/screenshots/sand.png?raw=true "sand")
-![smoke](/screenshots/smoke.png?raw=true "smoke")
-![spiral](/screenshots/spiral.png?raw=true "spiral")
-![star-swoosh](/screenshots/star-swoosh.png?raw=true "star-swoosh")
-![swoosh](/screenshots/swoosh.png?raw=true "swoosh")
-![triangles](/screenshots/triangles.png?raw=true "triangles")
-![very-smooth](/screenshots/very-smooth.png?raw=true "very-smooth")
-![waves](/screenshots/waves.png?raw=true "waves")
+<p float="left">
+	<img src="/screenshots/blue-ink-bricks.png" alt="blue-ink-bricks" title="blue-ink-bricks" width="200"/>
+	<img src="/screenshots/boxes-iterative.png" alt="boxes-iterative" title="boxes-iterative" width="200"/>
+	<img src="/screenshots/boxes-recursive.png" alt="boxes-recursive" title="boxes-recursive" width="200"/>
+</p>
+<p float="left">
+	<img src="/screenshots/cave.png" alt="cave" title="cave" width="200"/>
+	<img src="/screenshots/color-bricks.png" alt="color-bricks" title="color-bricks" width="200"/>
+	<img src="/screenshots/colored-plasma-noise-bricks.png" alt="colored-plasma-noise-bricks" title="colored-plasma-noise-bricks" width="200"/>
+</p>
+<p float="left">
+	<img src="/screenshots/color-fire.png" alt="color-fire" title="color-fire" width="200"/>
+	<img src="/screenshots/color-flow.png" alt="color-flow" title="color-flow" width="200"/>
+	<img src="/screenshots/color-grid.png" alt="color-grid" title="color-grid" width="200"/>
+</p>
+<p float="left">
+	<img src="/screenshots/drag-color.png" alt="drag-color" title="drag-color" width="200"/>
+	<img src="/screenshots/fading-color.png" alt="fading-color" title="fading-color" width="200"/>
+	<img src="/screenshots/fading-landscape.png" alt="fading-landscape" title="fading-landscape" width="200"/>
+</p>
+<p float="left">
+	<img src="/screenshots/fire-flow.png" alt="fire-flow" title="fire-flow" width="200"/>
+	<img src="/screenshots/fire-path.png" alt="fire-path" title="fire-path" width="200"/>
+	<img src="/screenshots/fire.png" alt="fire" title="fire" width="200"/>
+</p>
+<p float="left">
+	<img src="/screenshots/fog.png" alt="fog" title="fog" width="200"/>
+	<img src="/screenshots/large-slow-swoosh.png" alt="large-slow-swoosh" title="large-slow-swoosh" width="200"/>
+	<img src="/screenshots/paint.png" alt="paint" title="paint" width="200"/>
+</p>
+<p float="left">
+	<img src="/screenshots/plasma-bricks.png" alt="plasma-bricks" title="plasma-bricks" width="200"/>
+	<img src="/screenshots/plasma.png" alt="plasma" title="plasma" width="200"/>
+	<img src="/screenshots/sand.png" alt="sand" title="sand" width="200"/>
+</p>
+<p float="left">
+	<img src="/screenshots/smoke.png" alt="smoke" title="smoke" width="200"/>
+	<img src="/screenshots/spiral.png" alt="spiral" title="spiral" width="200"/>
+	<img src="/screenshots/star-swoosh.png" alt="star-swoosh" title="star-swoosh" width="200"/>
+</p>
+<p float="left">
+	<img src="/screenshots/swoosh.png" alt="swoosh" title="swoosh" width="200"/>
+	<img src="/screenshots/triangles.png" alt="triangles" title="triangles" width="200"/>
+	<img src="/screenshots/very-smooth.png" alt="very-smooth" title="very-smooth" width="200"/>
+</p>
+<p float="left">
+	<img src="/screenshots/waves.png" alt="waves" title="waves" width="200"/>
+</p>
